@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/news-test/freemarker-demo/freemarker-demo.iml" filepath="$PROJECT_DIR$/news-test/freemarker-demo/freemarker-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-test/minio-demo/minio-demo.iml" filepath="$PROJECT_DIR$/news-test/minio-demo/minio-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-test/mongo-demo/mongo-demo.iml" filepath="$PROJECT_DIR$/news-test/mongo-demo/mongo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-gateway/news-admin-gateway/news-admin-gateway.iml" filepath="$PROJECT_DIR$/news-gateway/news-admin-gateway/news-admin-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-gateway/news-app-gateway/news-app-gateway.iml" filepath="$PROJECT_DIR$/news-gateway/news-app-gateway/news-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-article/news-article.iml" filepath="$PROJECT_DIR$/news-service/news-article/news-article.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-common/news-common.iml" filepath="$PROJECT_DIR$/news-common/news-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-feign-api/news-feign-api.iml" filepath="$PROJECT_DIR$/news-feign-api/news-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-gateway/news-gateway.iml" filepath="$PROJECT_DIR$/news-gateway/news-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-model/news-model.iml" filepath="$PROJECT_DIR$/news-model/news-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-schedule/news-schedule.iml" filepath="$PROJECT_DIR$/news-service/news-schedule/news-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-search/news-search.iml" filepath="$PROJECT_DIR$/news-service/news-search/news-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-service.iml" filepath="$PROJECT_DIR$/news-service/news-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-user/news-user.iml" filepath="$PROJECT_DIR$/news-service/news-user/news-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-utils/news-utils.iml" filepath="$PROJECT_DIR$/news-utils/news-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-wemedia/news-wemedia.iml" filepath="$PROJECT_DIR$/news-service/news-wemedia/news-wemedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-gateway/news-wemedia-gateway/news-wemedia-gateway.iml" filepath="$PROJECT_DIR$/news-gateway/news-wemedia-gateway/news-wemedia-gateway.iml" />
+    </modules>
+  </component>
+</project>

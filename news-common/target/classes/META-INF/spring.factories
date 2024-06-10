@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.news.common.exception.ExceptionCatch,\
+  com.news.common.swagger.SwaggerConfiguration,\
+  com.news.common.swagger.Swagger2Configuration,\
+  com.news.common.redis.CacheService

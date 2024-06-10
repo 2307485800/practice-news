@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freemarker-demo" />
+        <module name="minio-demo" />
+        <module name="news-article" />
+        <module name="news-feign-api" />
+        <module name="news-admin-gateway" />
+        <module name="news-admin" />
+        <module name="news-wemedia-gateway" />
+        <module name="news-wemedia" />
+        <module name="news-common" />
+        <module name="news-search" />
+        <module name="news-behavior" />
+        <module name="news-model" />
+        <module name="news-app-gateway" />
+        <module name="file-starter" />
+        <module name="news-utils" />
+        <module name="news-schedule" />
+        <module name="news-user" />
+        <module name="mongo-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="file-starter" options="-parameters" />
+      <module name="freemarker-demo" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
+      <module name="news" options="-parameters" />
+      <module name="news-admin" options="-parameters" />
+      <module name="news-admin-gateway" options="-parameters" />
+      <module name="news-app-gateway" options="-parameters" />
+      <module name="news-article" options="-parameters" />
+      <module name="news-basic" options="-parameters" />
+      <module name="news-behavior" options="-parameters" />
+      <module name="news-common" options="-parameters" />
+      <module name="news-feign-api" options="-parameters" />
+      <module name="news-gateway" options="-parameters" />
+      <module name="news-model" options="-parameters" />
+      <module name="news-schedule" options="-parameters" />
+      <module name="news-search" options="-parameters" />
+      <module name="news-service" options="-parameters" />
+      <module name="news-test" options="-parameters" />
+      <module name="news-user" options="-parameters" />
+      <module name="news-utils" options="-parameters" />
+      <module name="news-wemedia" options="-parameters" />
+      <module name="news-wemedia-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>
